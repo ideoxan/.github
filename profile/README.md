@@ -52,3 +52,7 @@ Below is an actively maintained list of projects that could use your help!
 - **[Community Hub](https://github.com/ideoxan/ideoxan)**: The community hub for Ideoxan
 - **[Course Catalogue](https://github.com/ideoxan/courses)**: Want to add a new course to the catalogue? Maybe revise one? Start here!
 - **[Open Course Specification](https://github.com/ideoxan/spec)**: The specification for creating human-readable courses in Ideoxan
+
+<hr/>
+
+###### Powered by [u0026](https://github.com/u0026) 🚀
