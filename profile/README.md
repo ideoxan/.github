@@ -9,7 +9,7 @@
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/ideoxan">🐦 Twitter</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="https://next.ideoxan.com/blog">✍️ Blog</a>
+    <a href="https://ideoxan.com/blog">✍️ Blog</a>
 </p>
 
 
@@ -37,7 +37,7 @@ catalogue. We made our website around this free-to-use and open source model to 
 barriers present in other online courses. With free tools, everyone can be capable of discovering
 their love of computer science.
 
-For more information, visit [ideoxan.com/about](https://next.ideoxan.com/about)
+For more information, visit [ideoxan.com/about](https://ideoxan.com/about)
 
 ### 👷‍♂️ Get involved
 A number of projects are under active development. Want to get started in the open source
